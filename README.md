@@ -1,6 +1,6 @@
 # [Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase](https://circuitdigest.com/)
 
-<img src="https://github.com/Circuit-Digest/Pure-Sinewave-Inverter/blob/cbb5b4dd976278150942484d1b22967ec8ea85f6/IMG_0176.JPG" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase/blob/acdfc56af329db4a72b45fb39107e6bd35fb4247/images/IMG_20220517_160254%20(1).jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -13,9 +13,12 @@
 <br>
 <br>
 <br>
-Nowadays we can’t even imagine a world without power. Even an intermittent power failure is so inconvenient. As we depend on electricity in many important areas of our life it is important to take persuasion against power failures. That’s where the inverter plays an important role. There are multiple types of inverters in the market, such as square wave inverters, modified sine wave inverters, and pure sine wave inverters. The cheapest options would be square wave and modified sine wave inverters. But the drawback is that these types of inverters are not suitable for inductive loads such as motors, fans etc. that’s where pure sine wave inverters come into play. They output a pure sinewave at line frequency. So that it won’t affect such inductive loads.
-	So, in this project, we are going to build a pure sine wave inverter with ratting of 300W or 800VA. Let’s look at the components needed for this project. 
-
+In industrial and domestic applications attendance registering is important at each and every moment. Many industries face a lot of problems due to the lack of a proper attendance monitoring system. To overcome this, we must need a tamper-proof, unattended and fast attendance registering system. And the best way for it is to use a biometrics identification system. 
+<img src="https://github.com/Circuit-Digest/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase/blob/acdfc56af329db4a72b45fb39107e6bd35fb4247/images/Animation.gif" width="" alt="alt_text" title="image_tooltip">
+<br>
+<br>
+Among the various biometric identification systems, Fingerprint identification is one of the most well-known and commonly used ones. It is fast, reliable and tamper-proof. Because of their uniqueness & consistency over time, fingerprints have been used for identification for many years, more recently becoming automated due to advancements in computing capabilities. SO, we are going to use the very same technique for registering and maintaining the attendance record
+<br>
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
