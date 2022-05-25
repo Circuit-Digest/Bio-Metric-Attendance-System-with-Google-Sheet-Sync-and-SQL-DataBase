@@ -19,6 +19,7 @@ In industrial and domestic applications attendance registering is important at e
 <br>
 Among the various biometric identification systems, Fingerprint identification is one of the most well-known and commonly used ones. It is fast, reliable and tamper-proof. Because of their uniqueness & consistency over time, fingerprints have been used for identification for many years, more recently becoming automated due to advancements in computing capabilities. SO, we are going to use the very same technique for registering and maintaining the attendance record
 <br>
+<img src="https://github.com/Circuit-Digest/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase/blob/e10bde10452665cd71f0b0690262cc3203bf689d/images/login.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
