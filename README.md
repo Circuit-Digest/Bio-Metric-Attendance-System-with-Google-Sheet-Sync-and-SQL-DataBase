@@ -1,6 +1,6 @@
 # [Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase](https://circuitdigest.com/microcontroller-projects/biometric-attendance-system-with-google-sheets)
 
-<img src="https://github.com/Circuit-Digest/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase/blob/acdfc56af329db4a72b45fb39107e6bd35fb4247/images/IMG_20220517_160254%20(1).jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase/blob/7940bc4c20d620820964599a899269f038739517/images/Biometric-Attendance-System-with-Google-Sheet.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
